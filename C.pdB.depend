@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591672824 source:c:\users\henrique\documents\c\c.pdb\c.pdb.c
+	<stdio.h>
+	<stdlib.h>
+	"c.pdB.h"
+
+1591672748 c:\users\henrique\documents\c\c.pdb\c.pdb.h
+
